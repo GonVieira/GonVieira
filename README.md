@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" heigth="500"/>
+  <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/gon-vieira/" >
@@ -10,6 +10,10 @@
   <div id="profile-views">
     <img src="https://komarev.com/ghpvc/?username=GonVieira" alt="Profile Views Badge"/>
   </div>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="300" heigth="600"/>
 </div>
 
 ---
