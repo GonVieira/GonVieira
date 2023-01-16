@@ -56,5 +56,5 @@ I am a Frontend Developer from Portugal <img src="https://media.giphy.com/media/
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonVieira&theme=github_dark&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonVieira&theme=github_dark&show_icons=true) ->
 
