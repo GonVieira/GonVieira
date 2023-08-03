@@ -32,7 +32,7 @@ I am a Frontend Developer from Portugal <img src="https://media.giphy.com/media/
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeSCript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -54,7 +54,9 @@ I am a Frontend Developer from Portugal <img src="https://media.giphy.com/media/
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
+<p align="center">
+  <img style="height: auto; width: 40%; align: center;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) -->
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonVieira&theme=github_dark&show_icons=true) ->
 
