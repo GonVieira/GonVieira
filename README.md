@@ -55,7 +55,7 @@ I am a Frontend Developer from Portugal <img src="https://media.giphy.com/media/
 ### :fire: My Stats :
 
 <p align="center">
-  <img style="height: auto; width: 40%; align: center;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+  <img style="height: auto; width: 50%; align: center;" class="img" src="https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly" />
   <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GonVieira&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) -->
 </p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonVieira&theme=github_dark&show_icons=true) ->
